@@ -1,0 +1,3 @@
+1. Implemented an LLVM pass for loop invariant code motion to optimize the loops and calculate the number of load-sinks, store-sinks, load-hoists.
+
+2. Analysed the effectiveness of your implementation of LICM in terms of execution time and amount of code motion in the presence of other optimizations.
