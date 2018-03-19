@@ -1,0 +1,2 @@
+Implemented a library that will calculate vital statistics for an LLVM module.
+Module--->Functions--->Basic Blocks---> Instructions
