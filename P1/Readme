@@ -1,0 +1,1 @@
+Implemented a LLVM Bitcode generator for simple programming language that just includes arthimetic operations on variables and lists, using parse generators: Flex and Bison
